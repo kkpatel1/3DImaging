@@ -7,6 +7,8 @@ Convert 2D Images to Red-Cyan 3D Images
 ###Dependencies
 
 * MATLAB with ImageViewer
+* Red-Cyan 3D Glass
+
 
 ###Using `thrDImageChng.m`
 
@@ -17,6 +19,7 @@ Convert 2D Images to Red-Cyan 3D Images
 * **Optional** Change value of `m`. If you increase it's value, the Depth will be increased upto some extent. Output will be distorted if it goes very high.
 * Run file
 * You will see a image in current folder with name **`3D_<filename>`**
+* See it using 3D Glass. If it is not working as expected, change sides of Red and Cyan Glass.
 
 ###Using `TwoCams/Code.m`
 
@@ -30,7 +33,7 @@ Convert 2D Images to Red-Cyan 3D Images
 * Copy both images in same directory as `Code.m`
 * Open Code.m. Replace image1 file name with `im1.jpg` and `image2` file name with `im2.jpg`
 * Run file
-* New 3D Image will have name `ImageResults.jpg`
+* New 3D Image will have name `ImageResults.jpg`. See it using 3D Glass.
+* If output is not as expected, change image1 and image2.
 
-
-Good Luck and keep clicking :D
+Good Luck and keep viewing :D
