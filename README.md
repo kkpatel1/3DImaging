@@ -16,9 +16,9 @@ Convert 2D Images to Red-Cyan 3D Images
     Ex. `str = <filename>`
 * **Optional** Change value of `m`. If you increase it's value, the Depth will be increased upto some extent. Output will be distorted if it goes very high.
 * Run file
-* You will see a image in current folder with name **3D_`<filename>`**
+* You will see a image in current folder with name **`3D_<filename>`**
 
-###Using 'TwoCams/Code.m'
+###Using `TwoCams/Code.m`
 
 ##Taking two Images for `Code.m`
 * Put your camera on solid surface click Image. This will be `image1`.
@@ -33,4 +33,4 @@ Convert 2D Images to Red-Cyan 3D Images
 * New 3D Image will have name `ImageResults.jpg`
 
 
-Good Luck and keep experimenting :D
+Good Luck and keep clicking :D
