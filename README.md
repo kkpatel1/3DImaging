@@ -20,13 +20,13 @@ Convert 2D Images to Red-Cyan 3D Images
 
 ###Using `TwoCams/Code.m`
 
-##Taking two Images for `Code.m`
+####Taking two Images for `Code.m`
 * Put your camera on solid surface click Image. This will be `image1`.
 * Now shift camera to right for a small distance. For best effect it should be nearly equal to distance between your eyes. If object is far than distance can be increased.
 * Click this Image. This will be `image2`.
 
 
-##Create 3D Image
+####Create 3D Image
 * Copy both images in same directory as `Code.m`
 * Open Code.m. Replace image1 file name with `im1.jpg` and `image2` file name with `im2.jpg`
 * Run file
